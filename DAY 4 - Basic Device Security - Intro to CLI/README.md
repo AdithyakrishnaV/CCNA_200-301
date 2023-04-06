@@ -10,6 +10,7 @@ adi1(config)#hostname R1
 There are ways to crack this passwords so this is also not that secure
 <img src="https://user-images.githubusercontent.com/84318379/230424023-5f087602-e974-4573-9c00-c731bf9c7f04.png">
 <img src="https://user-images.githubusercontent.com/84318379/230425070-30163b71-5ebb-41cf-b6fc-981dde1959ac.png">
+
 common useful commands
 ------------------------
 <img src="https://user-images.githubusercontent.com/84318379/230413938-2120f71b-b750-4d70-b237-dcdde6e5321c.png" >
