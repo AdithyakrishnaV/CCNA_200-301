@@ -3,7 +3,8 @@ CLI into and security strenght and weakness
 <img src="https://user-images.githubusercontent.com/84318379/230419244-656aa126-eb48-4aef-a9f2-39063e22e432.png" >
 Router(config)#hostname adi1
 
-adi1(config)#hostname R1    
+adi1(config)#hostname R1   
+
 
 <img src="https://user-images.githubusercontent.com/84318379/230422400-aec0e96a-8fd8-4da4-9115-508258935242.png" >
 <img src="https://user-images.githubusercontent.com/84318379/230423495-85811cc3-f543-4dca-be38-80fb9f78586e.png">
@@ -11,7 +12,7 @@ There are ways to crack this passwords so this is also not that secure
 <img src="https://user-images.githubusercontent.com/84318379/230424023-5f087602-e974-4573-9c00-c731bf9c7f04.png">
 <img src="https://user-images.githubusercontent.com/84318379/230425070-30163b71-5ebb-41cf-b6fc-981dde1959ac.png">
 
-common useful tips & commands
+Common useful tips & commands
 ------------------------
 <img src="https://user-images.githubusercontent.com/84318379/230413938-2120f71b-b750-4d70-b237-dcdde6e5321c.png" >
 <img src="https://user-images.githubusercontent.com/84318379/230414293-c15aac42-0857-467d-a068-3b8a8bc9d66b.png" >
