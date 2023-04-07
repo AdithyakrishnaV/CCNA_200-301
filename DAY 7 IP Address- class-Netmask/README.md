@@ -1,4 +1,4 @@
-
+IP Address its class, netmask
 -------------------------------
 <img src="https://user-images.githubusercontent.com/84318379/230593586-08139c4a-aa72-43be-aa85-5cc5836d8dc2.png">
 <img src="https://user-images.githubusercontent.com/84318379/230592821-1ad1b0f2-f1de-4701-affc-a05882bc04b9.png">
