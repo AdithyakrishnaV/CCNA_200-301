@@ -7,8 +7,4 @@
 <img src="https://user-images.githubusercontent.com/84318379/230818264-0a88609c-ba4f-46d5-adf6-e41a252be682.png">
 
 # Part 2 Default Gateway
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://user-images.githubusercontent.com/84318379/230853714-335d4402-90b4-4143-b04c-9b565371e5bd.png">
